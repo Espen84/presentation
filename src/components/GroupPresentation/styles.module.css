@@ -1,0 +1,7 @@
+.jumbo {
+    background-color: var(--color-primary) !important;
+    border-radius: 0;
+}
+.paragraph {
+    font-size: larger;
+}

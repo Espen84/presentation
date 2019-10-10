@@ -1,0 +1,13 @@
+.card {
+    width: "18rem";
+    border: 3px solid var(--color-primary) !important;
+}
+
+.headerTitle {
+    background-color: var(--color-tertiary) !important;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Fjalla One', sans-serif;
+    border-radius: 0 !important;
+}
