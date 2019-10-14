@@ -2,6 +2,9 @@ html, body {
     font-family: 'Raleway', sans-serif;
     background-color: var(--color-secondary);
 }
+a:hover {
+    font-style: italic !important;
+}
 
 .bg-primary {
     background-color: #4FB477;
@@ -13,6 +16,11 @@ html, body {
 
 :root {
     --color-primary: #4FB477;
-    --color-secondary: #F4FFFE;
+    --color-secondary: rgb(235, 235, 235);
     --color-tertiary: #3E7031;
+    --gradient-scheme: linear-gradient(to right, #51b373, #51bb78,  #51b373);
+
+    --grid: 8px;
 }
+
+/*secondary #F4FFFE*/

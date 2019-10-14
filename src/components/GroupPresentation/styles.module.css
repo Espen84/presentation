@@ -1,7 +1,21 @@
 .jumbo {
-    background-color: var(--color-primary) !important;
+    background-image: var(--gradient-scheme);
+    /*background-color: var(--color-primary) !important;*/
     border-radius: 0;
 }
-.paragraph {
-    font-size: larger;
+
+.container {
+    /* border: 2px solid white; */
 }
+
+.paragraph {
+    font-size: large;
+    padding: calc(var(--grid)* 1);
+}
+
+@media only screen and (min-width: 768px) {
+    .paragraph {
+        font-size: larger;
+    }
+}
+

@@ -1,23 +1,23 @@
 [
     {
         "name": "Gorm-Erik Aarsheim",
-        "description": "Gorm-Erik description",
-        "imgUrl": "https://avatars0.githubusercontent.com/u/35703118?s=460&v=4",
+        "description": "Gorm-Erik description ",
+        "imgUrl": "gorm",
         "linkedInUrl": "https://www.linkedin.com/in/gorm-erik-aarsheim-aa1b9b13b/",
         "githubUrl": "https://github.com/gormaar"
     },
     {
         "name": "Vegard Alvsaker",
-        "description": "Vegard description",
-        "imgUrl": "https://avatars1.githubusercontent.com/u/35599899?s=460&v=4",
+        "description": "Vegard liker godt å programmere og er interessert i webutvikling. Sommeren 2019 fikk han har erfaring som utvikler/konsulent i Bouvet hvor han fikk prøvd seg på et fullstack-prosjekt. Teknologier han har erfaring med er React, ASP.NET, Java, Go, Python, SQL og Git.",
+        "imgUrl": "vegard",
         "linkedInUrl": "https://www.linkedin.com/in/vegard-alvsaker-797970ba/",
         "githubUrl": "https://github.com/vegardalvsaker"
     },
     {
         "name": "Ingve Fosse",
         "description": "Ingve description",
-        "imgUrl": "https://avatars2.githubusercontent.com/u/32854037?s=460&v=4",
-        "linkedInUrl": "#",
+        "imgUrl": "ingve",
+        "linkedInUrl": "https://www.linkedin.com/in/ingve-fosse-b4619b196/",
         "githubUrl": "https://github.com/ingvefosse"
     },
     {
@@ -30,7 +30,7 @@
     {
         "name": "Espen Sivertsen Oftedal",
         "description": "Espen description",
-        "imgUrl": "https://media.licdn.com/dms/image/C5603AQHO-Y0sQV0ZsA/profile-displayphoto-shrink_800_800/0?e=1576108800&v=beta&t=-qZ7FYVVdaRXbFRwqC4xktsBUTxUOywCZnLZJCGmYpU",
+        "imgUrl": "espen",
         "linkedInUrl": "https://www.linkedin.com/in/espen-sivert-oftedal/",
         "githubUrl": "https://github.com/Espen84"
     },

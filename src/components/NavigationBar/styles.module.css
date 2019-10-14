@@ -1,5 +1,5 @@
 .bgPrimary {
-    background-color: var(--color-tertiary);
+    background-image: var(--gradient-scheme);
 }
 
 .bg-secondary {

@@ -4,10 +4,21 @@
 }
 
 .headerTitle {
-    background-color: var(--color-tertiary) !important;
-    color: white;
+    background-image: var(--gradient-scheme);    color: white;
     text-align: center;
     font-size: 25px;
     font-family: 'Fjalla One', sans-serif;
     border-radius: 0 !important;
 }
+
+@keyframes svghover {
+    0% {transform: scale3d(1,1,1);}
+    /*50% {transform: scale(1.04);}*/
+    100% {transform: scale3d(1.15, 1.15, 1.15);}
+}
+
+.svg:hover {
+    animation: svghover 0.5s;
+    animation-fill-mode: forwards;
+}
+
