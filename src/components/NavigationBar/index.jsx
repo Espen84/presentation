@@ -10,7 +10,7 @@ const NavigationBar = () => {
     return (
         <Navbar className={navstyles} variant="dark">
             <Container>
-                <Navbar.Brand className="mx-auto "><h3>Brukerfeil</h3></Navbar.Brand>
+                <Navbar.Brand className="mx-auto"><h3>Brukerfeil</h3></Navbar.Brand>
             </Container>
         </Navbar>
     )

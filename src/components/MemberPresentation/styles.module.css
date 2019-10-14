@@ -1,6 +1,7 @@
 .card {
     width: "18rem";
-    border: 3px solid var(--color-primary) !important;
+    min-height: 728px;
+    /*border: 3px solid var(--color-primary) !important;*/
 }
 
 .headerTitle {
@@ -21,4 +22,3 @@
     animation: svghover 0.5s;
     animation-fill-mode: forwards;
 }
-

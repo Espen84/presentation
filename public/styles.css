@@ -4,6 +4,7 @@ html, body {
 }
 a:hover {
     font-style: italic !important;
+    text-decoration: none;
 }
 
 .bg-primary {

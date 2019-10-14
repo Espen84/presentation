@@ -7,11 +7,11 @@
         "githubUrl": "https://github.com/gormaar"
     },
     {
-        "name": "Vegard Alvsaker",
-        "description": "Vegard liker godt å programmere og er interessert i webutvikling. Sommeren 2019 fikk han har erfaring som utvikler/konsulent i Bouvet hvor han fikk prøvd seg på et fullstack-prosjekt. Teknologier han har erfaring med er React, ASP.NET, Java, Go, Python, SQL og Git.",
-        "imgUrl": "vegard",
-        "linkedInUrl": "https://www.linkedin.com/in/vegard-alvsaker-797970ba/",
-        "githubUrl": "https://github.com/vegardalvsaker"
+        "name": "Marius Johansen Holen",
+        "description": "Marius description",
+        "imgUrl": "https://avatars1.githubusercontent.com/u/35805806?s=460&v=4",
+        "linkedInUrl": "https://www.linkedin.com/in/marius-holen/",
+        "githubUrl": "https://github.com/mariusholen"
     },
     {
         "name": "Ingve Fosse",
@@ -19,13 +19,6 @@
         "imgUrl": "ingve",
         "linkedInUrl": "https://www.linkedin.com/in/ingve-fosse-b4619b196/",
         "githubUrl": "https://github.com/ingvefosse"
-    },
-    {
-        "name": "Marius Johansen Holen",
-        "description": "Marius description",
-        "imgUrl": "https://avatars1.githubusercontent.com/u/35805806?s=460&v=4",
-        "linkedInUrl": "https://www.linkedin.com/in/marius-holen/",
-        "githubUrl": "https://github.com/mariusholen"
     },
     {
         "name": "Espen Sivertsen Oftedal",
@@ -40,5 +33,12 @@
         "imgUrl": "https://scontent.fsvg2-1.fna.fbcdn.net/v/t31.0-8/20368909_10154676757411641_2118538775600584799_o.jpg?_nc_cat=101&_nc_oc=AQmxxKE-Y_Irw8AbhCd4g2Sdro-RFGZxDh5Uq9ZRsnXuu4BKLizKRI3lxC4wUNYq_LQ&_nc_ht=scontent.fsvg2-1.fna&oh=5c1ca76f80e439dcbb594ce717bc21d3&oe=5E1B4549",
         "linkedInUrl": "https://www.linkedin.com/in/kevin-sm%C3%B8rdal-775607194/",
         "githubUrl": "https://github.com/Fiskehandler"
+    },
+    {
+        "name": "Vegard Alvsaker",
+        "description": "Vegard liker godt å programmere og er interessert i webutvikling. Sommeren 2019 fikk han har erfaring som utvikler/konsulent i Bouvet hvor han fikk prøvd seg på et fullstack-prosjekt. Teknologier han har erfaring med er React, ASP.NET, Java, Go, Python, SQL og Git.",
+        "imgUrl": "vegard",
+        "linkedInUrl": "https://www.linkedin.com/in/vegard-alvsaker-797970ba/",
+        "githubUrl": "https://github.com/vegardalvsaker"
     }
 ]
