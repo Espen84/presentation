@@ -1,14 +1,14 @@
 [
     {
         "name": "Gorm-Erik Aarsheim",
-        "description": "Gorm-Erik description ",
+        "description": "Gorm-Erik har store interesser innen programmering, og teknologi. Han stiller dermed sterkt ved tekniske utfordringer. Sommeren 2019 jobbet han som utvikler/konsulent i Bouvet, hvor han fikk erfaring som fullstack systemutvikler i et IT-selskap. Han jobber nå i praksis i bedriften DiaGraphIT, hvor han driver med frontend utvikling. Gorm-Erik har kompetanse i Java, Go, Python, ASP.NET, React, Angular, SQL og Git.",
         "imgUrl": "gorm",
         "linkedInUrl": "https://www.linkedin.com/in/gorm-erik-aarsheim-aa1b9b13b/",
         "githubUrl": "https://github.com/gormaar"
     },
     {
         "name": "Marius Johansen Holen",
-        "description": "Marius description",
+        "description": "Marius er glad i systemutvikling, herunder særlig analyse, datamodellering og programmering. Liker tett kundekontakt, og samarbeid og kommunikasjon med kolleger. Hatt praksis som utvikler i smidig utviklingsprosjekt hos Knowit høsten 2019. Erfaring med teknologier som Java, Spring Boot, Python, Git og SQL.",
         "imgUrl": "https://avatars1.githubusercontent.com/u/35805806?s=460&v=4",
         "linkedInUrl": "https://www.linkedin.com/in/marius-holen/",
         "githubUrl": "https://github.com/mariusholen"
