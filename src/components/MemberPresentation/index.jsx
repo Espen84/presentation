@@ -12,15 +12,17 @@ import vegardpic from "../../images/vegard.JPG"
 import ingvepic from "../../images/ingve.JPG"
 import gormpic from "../../images/gorm.JPG"
 import espenpic from "../../images/espen.JPG"
-//import vegardpic from "../../images/vegard.JPG"
-//import vegardpic from "../../images/vegard.JPG"
+import kevinpic from "../../images/kevin.jpg"
+import mariuspic from "../../images/marius.jpg"
 const members = require("../../memberDetails.json");
 
 const pictures = {
     vegard: vegardpic,
     gorm: gormpic,
     ingve: ingvepic,
-    espen: espenpic
+    espen: espenpic,
+    marius: mariuspic,
+    kevin: kevinpic
 }
 
 const MemberPresentation = () => {
